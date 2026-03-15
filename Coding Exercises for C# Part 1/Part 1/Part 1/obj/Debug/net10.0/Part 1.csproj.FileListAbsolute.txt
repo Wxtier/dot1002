@@ -1,0 +1,14 @@
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\bin\Debug\net10.0\Part 1.exe
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\bin\Debug\net10.0\Part 1.deps.json
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\bin\Debug\net10.0\Part 1.runtimeconfig.json
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\bin\Debug\net10.0\Part 1.dll
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\bin\Debug\net10.0\Part 1.pdb
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.AssemblyInfoInputs.cache
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.AssemblyInfo.cs
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.dll
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\refint\Part 1.dll
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.pdb
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\Part 1.genruntimeconfig.cache
+C:\Users\ELHAN\Desktop\Coding Exercises for C# Part 1\Part 1\Part 1\obj\Debug\net10.0\ref\Part 1.dll
